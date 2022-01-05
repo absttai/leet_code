@@ -1,4 +1,4 @@
-package Soulution02;
+package Solution02;
 
 import java.util.Arrays;
 

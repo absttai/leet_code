@@ -1,4 +1,4 @@
-package Soulution01;
+package Solution01;
 
 import java.util.Arrays;
 import java.util.HashMap;
